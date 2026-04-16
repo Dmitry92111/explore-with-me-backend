@@ -84,9 +84,9 @@ newman run ./tests/postman/ewm-main-service.json
 ```
 ## Структура
 
-ewm-main-service/
-ewm-stats-service/
-docker-compose.yml
+- ewm-main-service/
+- ewm-stats-service/
+- docker-compose.yml
 
 ## Автор
 Dmitry Karfidov
